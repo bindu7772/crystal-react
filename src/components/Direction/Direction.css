@@ -1,0 +1,19 @@
+.dir{
+	background-color: #A9A9A9;
+	font-weight: bold;
+	min-width: 100%;
+}
+
+.p-style{
+	text-align: center;
+	margin-bottom: 5px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.fp{
+	padding-top: 40px;
+}
+.lp{
+	padding-bottom: 25px;
+}
